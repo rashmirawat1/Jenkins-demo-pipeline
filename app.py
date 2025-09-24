@@ -1,1 +1,1 @@
-print("Hello from the app is updated!")
+print("Hello from the app!!")
